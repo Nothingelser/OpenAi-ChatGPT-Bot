@@ -36,6 +36,8 @@ global.SESSION_ID = 'elisa_md@;;;0Zl3VBpT#i8kyLMrEqjjJmG9I3CPmu5VCdCC4Vq6Xs26fUy
 global.CMD1 = 'ai' // .ai Command
 global.CMD2 = 'ai2' // .ai2 Command
 global.IMAGE_CMD = 'aiimg' // .aiimg Command 
+global.Weather_CMD = 'weather' // .weather command
+global.Translate_CMD = 'Translate' // .translate command
 global.PORT = process.env.PORT || '5000' // Port No need Change.
 
 mess = {
